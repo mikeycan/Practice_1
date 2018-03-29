@@ -1,3 +1,3 @@
-#The project is going pretty well
+#The project is not going pretty well
 
-#Michael is adding a comment
+#Michael is adding a comment to the file
