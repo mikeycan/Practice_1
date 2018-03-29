@@ -1,4 +1,4 @@
 #The project is not going pretty well
-while Ture
+#while True
 
 #Michael is adding a comment to the file
