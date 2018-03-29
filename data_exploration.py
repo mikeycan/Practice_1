@@ -1,3 +1,3 @@
-#The 123123123 project is not 123123 going pretty well
+#The project is not going pretty well
 while Ture
-#Michael is adding a comment to the dangol' file
+#Michael is adding a comment to the file
